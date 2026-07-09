@@ -1,0 +1,6 @@
+# Adobe I/O runtime credentials & build output — never commit
+.env
+.aio
+dist/
+node_modules/
+.DS_Store

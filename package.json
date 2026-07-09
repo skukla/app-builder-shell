@@ -1,0 +1,9 @@
+{
+  "name": "app-builder-shell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimal Adobe App Builder app to build out with AI — deploys green on day one, then grows into whatever your demo needs.",
+  "engines": {
+    "node": ">=18"
+  }
+}
