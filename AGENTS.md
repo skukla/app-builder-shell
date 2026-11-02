@@ -54,3 +54,5 @@ app-builder-shell/
 ├── AGENTS.md              # This file
 └── CLAUDE.md              # Pointer here for Claude Code
 ```
+
+**Releasing:** a push to `main` reaches nobody; a published release does. See [RELEASING.md](RELEASING.md).

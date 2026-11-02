@@ -16,3 +16,5 @@ aio app deploy
 
 Demo Builder attaches, deploys, and manages this app automatically when selected
 from the Add-an-Integration catalog.
+
+**Releasing:** a push to `main` reaches nobody; a published release does. See [RELEASING.md](RELEASING.md).
